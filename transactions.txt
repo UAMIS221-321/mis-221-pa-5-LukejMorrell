@@ -1,0 +1,3 @@
+sessionID#customerName#customerEmail#trainerDate#TraienrID#TrainerName#Status#
+Bill343#Jared Marsh#JMarsh@Hotmail.com#March42023#Bill12#Bill#Available
+Bill343#Jared Marsh#JMarsh@Hotmail.com#March292023#Bill12#Bill#Booked

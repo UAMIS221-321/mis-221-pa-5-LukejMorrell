@@ -1,0 +1,15 @@
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.csproj.AssemblyReference.cache
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\bin\Debug\net6.0\mis-221-pa-5-LukejMorrell.exe
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\bin\Debug\net6.0\mis-221-pa-5-LukejMorrell.deps.json
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\bin\Debug\net6.0\mis-221-pa-5-LukejMorrell.runtimeconfig.json
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\bin\Debug\net6.0\mis-221-pa-5-LukejMorrell.dll
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\bin\Debug\net6.0\mis-221-pa-5-LukejMorrell.pdb
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.dll
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\refint\mis-221-pa-5-LukejMorrell.dll
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.pdb
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\mis-221-pa-5-LukejMorrell.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Documents\Mis221\mis-221-pa-5-LukejMorrell\obj\Debug\net6.0\ref\mis-221-pa-5-LukejMorrell.dll
